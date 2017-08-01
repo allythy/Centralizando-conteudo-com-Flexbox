@@ -1,0 +1,20 @@
+body{
+    margin: 0px 20px;
+    background: linear-gradient(to left, #DAD299 , #B0DAB9);
+  }
+
+  p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.0em;
+    color: rgb(19, 19, 19);
+    border: 1px solid rgba(0, 0, 0, .3);
+    padding: 20px;
+    text-align: center;
+   }
+
+section{
+    height: 100vh; /*ocupado todo o view height*/
+    display: flex;
+    justify-content: center; /*centraliza os elementos na horizontal.*/
+    align-items: center /* centraliza os elementos flex na vertical  */
+    }
